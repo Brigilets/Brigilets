@@ -10,7 +10,7 @@ I'm Brigita, Frontend Developer with ambition to become a fullstack developer. P
 
 ### What I currently Do
 
-- 🔭 I’m currently looking for a new challenge
+- 🔭 I’m currently looking for a new challenge as a frontend developer (React, Next.js, Angular) 
 - 📫 How to reach me: b.sabutyte@gmail.com
 - Hobbies: travelling, cooking, sports
 
